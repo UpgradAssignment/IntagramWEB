@@ -1,0 +1,12 @@
+.headerBody{
+    background-color: #263238;
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.title{
+    padding: 10px;
+}

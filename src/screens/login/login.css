@@ -1,0 +1,37 @@
+.card{
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    outline: 0;
+    padding: 20px;
+    border-radius: 4px;
+    justify-content: center;
+}
+.cardbody {
+    width: 25%;
+    padding: 30px;
+}
+
+.formcontent{
+    width: 90%;
+}
+
+.red{
+    color: red;
+}
+
+.displayblock{
+    display: block;
+}
+
+.displaynone {
+    display: none;
+}
+
+#usernamefield{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
